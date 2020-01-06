@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1072257580619",
+    "firebase_url": "https://flach-chat-dd313.firebaseio.com",
+    "project_id": "flach-chat-dd313",
+    "storage_bucket": "flach-chat-dd313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072257580619:android:c222c809ece40e8818d7ce",
+        "android_client_info": {
+          "package_name": "com.nehal.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072257580619-lm33tst5mtmlt4kcjk09rfuvln45m9ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRI0j6etp68QwHzT942CBTfv-R5MNDiCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072257580619-lm33tst5mtmlt4kcjk09rfuvln45m9ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
